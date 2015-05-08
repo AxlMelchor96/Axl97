@@ -614,14 +614,16 @@
 			}
 		
 		.wrapper.style2
+
 		{
-			background: #fff;
+			
+		background: #fff ;
 		}
 		
 			.wrapper.style2 .title
 			{
-				background: #fff url('fondo3.jpg');
-				color: #484d55;
+				background: #fff url('images/fondo3.jpg');
+				color: #234d55;
 			}
 		
 		.wrapper.style3
